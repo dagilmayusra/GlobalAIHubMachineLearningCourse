@@ -1,10 +1,10 @@
-# GAIH Student Repo Example
+# Global Al Hub Machine Learning Course
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
+**Course Date:** 22.03.2021  
+**Name:** Yüsra 
+**Surname:** Dağılma  
+**Email:** dagilmayusra@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
