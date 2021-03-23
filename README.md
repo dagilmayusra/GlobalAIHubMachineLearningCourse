@@ -1,7 +1,7 @@
 # Global Al Hub Machine Learning Course
 ![](img/newlogo.png)
 
-**Course Date:** 22.03.2021  
+**Course Date:** 22.03.2021 / 26.03.2021
 **Name:** Yüsra 
 **Surname:** Dağılma  
 **Email:** dagilmayusra@gmail.com  
