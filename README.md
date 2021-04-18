@@ -5,17 +5,16 @@
 **Name:** Yüsra                    
 **Surname:** Dağılma  
 **Email:** dagilmayusra@gmail.com  
-
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+ 
 
 ## Project Name
-Description of your project.
+Elmas veri setinin makine öğrenmesi yöntemleriyle düzeltilmesi ve modellenmesi.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Scikit-learn (Machine Learning Library)
+Python (Programming Language)
+Machine Learning Algorithms
 ```
 ---
 
